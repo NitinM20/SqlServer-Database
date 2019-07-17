@@ -5,3 +5,4 @@
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL
 )
+
